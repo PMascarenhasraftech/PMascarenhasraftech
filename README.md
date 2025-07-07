@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Peter Mascarenhas
-- 👀 I am an IT Recruiter based in Belgium
-- 🌱 I Hire a lot of Developers, Architects, etc
+- 👀 I am an IT Recruiter 
+- 🌱 I like to code in my free time
